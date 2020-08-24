@@ -9,6 +9,8 @@ Foi utilizado neste curso no css tecnicas de posicionamento como o Grid Layout, 
 
 Nesse curso também foi ensinado conceitos de SEO e Head, também como implementar Analytics e subir o site em um domínio.
 
+### Link do projeto no netlify: https://bikcraft-projeto.netlify.app/
+
 # Imagens do Resultado:
 
 ## Home:
