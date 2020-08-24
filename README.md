@@ -1,5 +1,5 @@
-
-##O projeto Bikcraft foi criado do zero no curso de Web Design completo da Origamid.
+# Projeto Bikcraft
+### O projeto Bikcraft foi criado do zero no curso de Web Design completo da Origamid.
 
 Passando pelo Design feito no figma: Cores, Tipografias, Wireframe e Design;
 
@@ -9,8 +9,8 @@ Foi utilizado neste curso no css tecnicas de posicionamento como o Grid Layout, 
 
 Nesse curso também foi ensinado conceitos de SEO e Head, também como implementar Analytics e subir o site em um domínio.
 
-#Imagens do Resultado:
+# Imagens do Resultado:
 
-##Home:
+## Home:
 
-
+![](img/foto1.jpeg)
